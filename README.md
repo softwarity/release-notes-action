@@ -238,4 +238,4 @@ Run the whole flow without side effects on any repo with:
 
 ## License
 
-[MIT](LICENSE)
+[Apache-2.0](LICENSE)
